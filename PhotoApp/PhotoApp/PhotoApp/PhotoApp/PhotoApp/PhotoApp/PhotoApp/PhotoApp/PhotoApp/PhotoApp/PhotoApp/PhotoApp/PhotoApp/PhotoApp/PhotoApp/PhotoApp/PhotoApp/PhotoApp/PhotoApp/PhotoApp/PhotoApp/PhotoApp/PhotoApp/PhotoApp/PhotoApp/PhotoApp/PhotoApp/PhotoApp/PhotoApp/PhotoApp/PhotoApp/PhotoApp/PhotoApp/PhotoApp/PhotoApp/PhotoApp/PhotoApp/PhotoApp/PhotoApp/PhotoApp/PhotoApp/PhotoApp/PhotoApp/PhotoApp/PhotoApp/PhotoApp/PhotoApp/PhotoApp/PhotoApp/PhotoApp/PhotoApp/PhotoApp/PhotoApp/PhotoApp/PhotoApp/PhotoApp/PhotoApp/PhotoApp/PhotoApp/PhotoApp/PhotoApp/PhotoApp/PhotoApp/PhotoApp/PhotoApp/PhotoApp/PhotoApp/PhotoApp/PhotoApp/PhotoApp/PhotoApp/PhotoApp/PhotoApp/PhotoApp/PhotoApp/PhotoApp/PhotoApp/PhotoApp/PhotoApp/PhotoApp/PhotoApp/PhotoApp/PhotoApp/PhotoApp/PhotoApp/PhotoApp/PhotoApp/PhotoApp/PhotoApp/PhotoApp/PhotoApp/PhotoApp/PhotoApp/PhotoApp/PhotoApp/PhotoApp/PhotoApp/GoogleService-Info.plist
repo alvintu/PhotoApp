@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>175873632145-is0ohmpmtpm2ufkod4c0ggaeh5fcp0bu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175873632145-is0ohmpmtpm2ufkod4c0ggaeh5fcp0bu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeSJl-DLduRE58geezfAzd7rdb2s38Wgc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175873632145</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>turntotech.io.PhotoApp</string>
+	<key>PROJECT_ID</key>
+	<string>boiling-heat-4086</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boiling-heat-4086.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175873632145:ios:c38c74a63a009a94</string>
+	<key>DATABASE_URL</key>
+	<string>https://boiling-heat-4086.firebaseio.com</string>
+</dict>
+</plist>
